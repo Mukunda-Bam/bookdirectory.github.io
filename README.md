@@ -5,7 +5,7 @@
   >
   > JavaScript
  
- ## library used
+ ## Library used
   > Mongoose
   
   > Body-Parser (Middleware)
