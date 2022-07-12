@@ -19,7 +19,7 @@ the collection. The database for this purpose will be MongoDB. For building an a
 endpoints. Remember, endpoints are location: one end of a communication channel occurs when an API interacts with another system for data. For creating 
 endpoints, we use four basic methods: GET, PUT, POST, and DELETE. For obtaining all of the books
 POST is used to add books to the list, PUT is used to update books in the list, and GET is used to remove books from the list.
-DELETE is used in the list. For this type of app, we don't need to use the database; we may start with data collected as a JSON file. 
+DELETE is used in the list. For this type of app, we do not need to necessarily use the database; we might use data collected as a JSON file. 
 
 ### For this we need four node js modules:
 
