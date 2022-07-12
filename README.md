@@ -2,11 +2,14 @@
 
 ## Language and framework used
   > Express (Library)
+  >
   > JavaScript
  
- ##library used
+ ## library used
   > Mongoose
+  
   > Body-Parser (Middleware)
+  
   > Nodemon (Script)
 
 It is the most basic project using Node JS and Express JS or Nest JS where we learn how to get started with REST APIs using Node JS and Express JS or Nest JS.
@@ -18,14 +21,14 @@ endpoints, we use four basic methods: GET, PUT, POST, and DELETE. For obtaining 
 POST is used to add books to the list, PUT is used to update books in the list, and GET is used to remove books from the list.
 DELETE is used in the list. For this type of app, we don't need to use the database; we may start with data collected as a JSON file. 
 
-For this we need four node js modules:
+### For this we need four node js modules:
 
 Express: To create server and routes
 Body-parser: Package to read and display response in json form
 Mongoose: Llibrary to manage data in mongoDB (CRUD opearation)
 Nodemon: Script to auto-restart node js server, when file changes are made
 
-Features of books directory: 
+# Features of books directory: 
    Management of database using mongoDB.
    Searchbar to search for the required book.
    Slide menu which lists all the author books, author, genres.
